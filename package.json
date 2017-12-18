@@ -1,0 +1,19 @@
+{
+  "name": "testgrunt",
+  "version": "1.0.0",
+  "description": "test grunt project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt",
+    "automation",
+    "testing"
+  ],
+  "author": "Soumya",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  }
+}
